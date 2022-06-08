@@ -47,7 +47,7 @@ def macro_data(code):
     scenario = ("Hi there,\n"
                 "Thanks for reaching out and we apologize for the delayed response!\n\n"
                 "Here's a new link for the 60-day free trial:\n\n"
-                "https://www.crunchyroll.com/welcome/nextlevel?coupon_code="+str(code)+"&campaign=funimation\n\n"
+                "https://COUPON CODE LINK START"+str(code)+"COUPON CODE LINK END\n\n"
                 "If for any reason you should still need assistance with anything please don't hesitate to reach out to us. Thanks and have a great day!")
 
     formatted = {"ticket": {"assignee": {"id" :399987185412, "email": "daniel.galca@ellation.com"}, "comment": { "body": "{}".format(scenario), "public": True}}} 
