@@ -1,0 +1,3 @@
+[zendesk]
+Domain = "yourZendeskDomain"
+Credentials = "YOURZENDESKEMAIL@yourbiz.com/token:YOURZENDESKAPIKEY"
